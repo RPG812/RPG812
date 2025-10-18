@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavel
 
-<!--
-**RPG812/RPG812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Automation Developer (Node.js · real-time systems · trading bots · Web3)
 
-Here are some ideas to get you started:
+I build high-load, real-time and automation systems that solve real product problems.  
+I enjoy simplifying complex logic, removing manual work and making systems reliable at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’ve built
+- Microservice-based automation platform with remote device control and data replication.
+- DEX trading bot ($500M+ volume, 32 instances, full-cycle)
+- CEX arbitrage bot (5–8ms execution via TLS, borrowing, order chains)
+- Headless automation clients (Puppeteer/WebSocket, event-driven)
+- Multichain desktop app (Electron + Vue, blockchain REST APIs)
+
+## 🛠 Tech Stack
+**Core:** Node.js, JavaScript, MongoDB, REST, WebSocket, Vue.js, Web3, Git, SQLite, Linux  
+**Also used:** TypeScript, PostgreSQL, Docker, Nginx, Nest.js, Redis, BullMQ, OpenAI API, Telegraf
+
+## ✅ How I work
+- Focus on results, not hours
+- Explain complex things in a simple way
+- Understand business goals, not just code
+- Love working in a team, can own critical modules
+- Take responsibility and deliver
+
+## 📬 Contacts
+Telegram: @username
+GitHub: (this page)
