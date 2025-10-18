@@ -24,5 +24,5 @@ I enjoy simplifying complex logic, removing manual work and making systems relia
 - Take responsibility and deliver
 
 ## 📬 Contacts
-Telegram: @username
-GitHub: (this page)
+Telegram: [@pavel_riabinin](https://t.me/pavel_riabinin)
+GitHub: [RPG812](https://github.com/RPG812)
