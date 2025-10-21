@@ -6,7 +6,7 @@ I build high-load, real-time and automation systems that solve real product prob
 I enjoy simplifying complex logic, removing manual work and making systems reliable at scale.
 
 ## 🚀 What I’ve built
-- Microservice-based automation platform with remote device control and data replication.
+- Contributed to a microservice-based automation platform with remote device control and real-time data replication.
 - DEX trading bot ($500M+ volume, 32 instances, full-cycle)
 - CEX arbitrage bot (5–8ms execution via TLS, borrowing, order chains)
 - Headless automation clients (Puppeteer/WebSocket, event-driven)
