@@ -5,7 +5,11 @@ Backend & Automation Developer (Node.js · real-time systems · trading bots · 
 I build high-load, real-time and automation systems that solve real product problems.  
 I enjoy simplifying complex logic, removing manual work and making systems reliable at scale.
 
-## 🚀 What I’ve built
+## 🔒 About my work
+Most of my professional work is under NDA, as the products are security-focused and built entirely on in-house frameworks. 
+This GitHub includes small side projects and experiments for learning and keeping up with modern tech.
+
+## 💻 What I’ve built
 - DEX trading bot ($500M+ volume, 32 instances, full-cycle)
 - CEX arbitrage bot (5–8ms execution via TLS, borrowing, order chains)
 - Headless automation clients (Puppeteer/WebSocket, event-driven)
@@ -16,7 +20,7 @@ I enjoy simplifying complex logic, removing manual work and making systems relia
 **Core:** Node.js, JavaScript, MongoDB, REST, WebSocket, Vue.js, Web3, Git, SQLite, Linux  
 **Also used:** TypeScript, PostgreSQL, Docker, Nginx, Nest.js, Redis, BullMQ, OpenAI API, Telegraf
 
-## ✅ How I work
+## 🧠 How I work and think
 - Focus on results, not hours
 - Explain complex things in a simple way
 - Understand business goals, not just code
