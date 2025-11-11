@@ -17,8 +17,8 @@ This GitHub includes small side projects and experiments for learning and keepin
 - Contributed to a microservice-based automation platform with remote device control and real-time data replication
 
 ## 🛠 Tech Stack
-**Core:** Node.js, JavaScript, MongoDB, REST, WebSocket, Vue.js, Web3, Git, SQLite, Linux  
-**Also used:** TypeScript, PostgreSQL, Docker, Nginx, Nest.js, Redis, BullMQ, OpenAI API, Telegraf
+`Node.js`, `JavaScript`, `TypeScript`, `Vue.js`, `Web3`, `MongoDB`, `REST`, `WebSocket`, `Git`, `Linux`, `SQLite`
+`PostgreSQL`, `Nest.js`, `ClickHouse`, `Docker`, `Nginx`, `Redis`, `BullMQ`, `OpenAI API`, `Telegraf`
 
 ## 🧠 How I work and think
 - Focus on results, not hours
